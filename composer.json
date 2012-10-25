@@ -1,0 +1,13 @@
+{
+  "name": "doctrine/atomic-test",
+  "type": "library",
+  "description": "Doctrine Atomic Updates Test",
+  "homepage": "https://github.com/jgornick/doctrine-atomic-test",
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=5.3.4",
+    "doctrine/mongodb-odm": "1.0.x-dev",
+    "symfony/console": ">=v2.1"
+  }
+}
+

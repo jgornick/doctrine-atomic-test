@@ -1,0 +1,7 @@
+tests/Proxies/*
+tests/Hydrators/*
+phpunit.xml
+vendor
+composer.lock
+composer.phar
+*.sublime*
